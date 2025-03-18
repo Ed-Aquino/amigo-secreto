@@ -1,3 +1,5 @@
-<hi> Sistemas de registro </h1>
+<h1 align="center"> Challenge Amigo Secreto </h1>
 
--Estado del proyecto: en construcción.
+-Estado del proyecto: terminado.
+
+Este codigo esta inspirado en el challenge del programa ONE de Oracle.
